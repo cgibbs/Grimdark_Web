@@ -1,0 +1,22 @@
+{
+  "name": "grimdark_web",
+  "version": "1.0.0",
+  "description": "Website for Grimdark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgibbs/Grimdark_Web.git"
+  },
+  "author": "cgibbs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgibbs/Grimdark_Web/issues"
+  },
+  "homepage": "https://github.com/cgibbs/Grimdark_Web#readme",
+  "dependencies": {
+    "@angular/cli": "^8.1.0"
+  }
+}
